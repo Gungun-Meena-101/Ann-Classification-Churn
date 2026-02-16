@@ -5,7 +5,9 @@ scikit-learn
 matplotlib
 streamlit
 scikeras
-protobuf==3.20.0
+protobuf==3.20.3
+
+
 
 
 
