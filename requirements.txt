@@ -1,11 +1,12 @@
-tensorflow>=2.16.1
+tensorflow
 pandas
-numpy<2.0.0
+numpy
 scikit-learn
 matplotlib
 streamlit
 scikeras
 protobuf
+
 
 
 
